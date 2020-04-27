@@ -3,7 +3,7 @@
 import os
 import sys
 
-
+#я поменял
 def main():
     os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'locallibrary.settings')
     try:
